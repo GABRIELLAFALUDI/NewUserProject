@@ -4,12 +4,13 @@ import java.util.Scanner;
  * Ask for a number to calculate the square root of.
  * If the user does not type a number, ask again for a maxium of n times.
  * After <n> attempts, stop the program with a farewell message. (if, while)
- */
+ */sffsdasdf
+
 public class UserInfo {
 
     private static final int MAX_ATTEMPTS_ALLOWED = 3; // Declare flow-control constants at the beginning
 
-///this is something
+///this is something, and another
 
     public static String[] userInputs = { "", "", "" };
     // myArray[0] --> String
